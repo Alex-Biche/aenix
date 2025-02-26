@@ -72,8 +72,9 @@ AENIX is currently in active development, and we welcome contributors who are pa
 
 ## License
 
-AENIX is open-source software, licensed under the [MIT License](LICENSE).
+AENIX is open-source software, licensed under the GPL3 License.
 
 ---
 
 For more information or if you have any questions, feel free to reach out via our contact page or open an issue in the repository.
+Contact aenix@alexbiche.one
